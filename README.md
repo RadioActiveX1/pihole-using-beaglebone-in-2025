@@ -82,6 +82,8 @@ Pi-hole still worked flawlessly; the ad ecosystem simply evolved around it.
 
 <img width="1397" height="947" alt="pihole_vs_brave_block_comparison" src="https://github.com/user-attachments/assets/30842bfb-3d99-4f63-9685-ad1fa48033fd" />
 
+Tested Via: [Test Ad Block](https://adblock.turtlecute.org/)
+
 ## Lessons Learned
 
 Running Pi-hole on a BeagleBone Black is technically elegant —
