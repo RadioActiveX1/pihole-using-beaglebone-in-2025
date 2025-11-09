@@ -8,7 +8,7 @@
 So the other day Linus popped up on my YouTube recommendation with his 6 year old [video](https://www.youtube.com/watch?v=KBXTnrD_Zs4) on how you can use a Raspberry Pi to block ads on your TV, and it instantly caught my attention, and I had to feed my obsession of "if it can be done on Rasperberry Pi, it can be done on a BeagleBone too".
 
 So, I realised that every connected screen we own today runs an ad-delivery engine disguised as an operating system.  
-So I decided to fight back — not with a browser plugin, but at the network layer — using a spare **BeagleBone Black** as a self-hosted **Pi-hole DNS sinkhole**.
+I decided to fight back — not with a browser plugin, but at the network layer — using a spare **BeagleBone Black** as a self-hosted **Pi-hole DNS sinkhole**.
 
 The goal sounded simple:
 
