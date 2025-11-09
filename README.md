@@ -78,6 +78,10 @@ Pi-hole still worked flawlessly; the ad ecosystem simply evolved around it.
   ```
   To eliminate in-stream ads, you’d need HTTPS interception (e.g., AdGuard Home with a trusted root certificate) or alternate clients like SmartTubeNext. That’s a more invasive path.
 
+### Here's a direct comparison between ad blocking capability with Pihole and Brave's "Shield"
+
+<img width="1397" height="947" alt="pihole_vs_brave_block_comparison" src="https://github.com/user-attachments/assets/30842bfb-3d99-4f63-9685-ad1fa48033fd" />
+
 ## Lessons Learned
 
 Running Pi-hole on a BeagleBone Black is technically elegant —
