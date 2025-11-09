@@ -44,6 +44,11 @@ sudo bash basic-install.sh
 sudo pihole -t
 ```
 
+### Phone/TV Wi-Fi Configuration
+
+We need to make sure that our device uses the BeagleBone's static IP as it's DNS.
+![WhatsApp Image 2025-11-09 at 12 28 11_54633ccf](https://github.com/user-attachments/assets/201b949a-f303-4b69-8a98-dbf1da10e5de)
+
 ## What Worked
 
 Pi-hole instantly silenced a lot of background noise I didn’t realize existed.
@@ -99,8 +104,6 @@ Even if it can’t stop every ad, it’s a reminder that we can still reclaim so
 ## REFERENCES
 - Pi-hole Official Documentation: https://docs.pi-hole.net/
 - BeagleBoard.org - Latest Images: https://beagleboard.org/latest-images
-- SmartTubeNext - YouTube without ads: https://github.com/yuliskov/SmartTubeNext
-- AdGuard Home: https://github.com/AdguardTeam/AdGuardHome
 -------------------------------------------
 
 ## Written by Siddhartha Bhattacharjee, November 2025
