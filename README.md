@@ -47,7 +47,7 @@ sudo pihole -t
 ### Phone/TV Wi-Fi Configuration
 
 We need to make sure that our device uses the BeagleBone's static IP as it's DNS.
-![WhatsApp Image 2025-11-09 at 12 28 11_54633ccf](https://github.com/user-attachments/assets/201b949a-f303-4b69-8a98-dbf1da10e5de)
+![WhatsApp Image 2025-11-09 at 12 28 11_baaf5138](https://github.com/user-attachments/assets/eb6d0f51-22bf-418d-857c-95812af5efd1)
 
 ## What Worked
 
